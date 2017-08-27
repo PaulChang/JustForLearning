@@ -1,0 +1,10 @@
+{
+ 
+   "plugins": ["splitter", "github"],
+ 
+   "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/PaulChang/book-software-testing"
+                }
+    }        
+}
